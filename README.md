@@ -43,13 +43,13 @@ privatizedIssueBody: 'NOTE: Public Repos are disabled for this organization! Rep
 # Issue Title when monitor mode is enabled
 monitorIssueTitle: '[CRITICAL] Public Repository Created'
 
-# Issue Body when monitor mode is enable
+# Issue Body when monitor mode is enabled
 monitorIssueBody: 'Please note that this repository is publicly visible to the internet!'
 
 # Users/Groups that should be cc'ed on the issue. Should be users/groups separated by a space.
 # ccList: '@user123 @user456'
 
-# Repos to  exclude in detection. Should be a List of Strings.
+# Repos to exclude in detection. Should be a List of Strings.
 # excludeRepos: ['repo1', 'repo2']
 ```
 
